@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(to bottom, #FF0000 0%, #412BC5 100%);
+}
+body {
+    color: navy;
+}
+
+h1 {
+    color: purple;
+}
+#p1 { font-size:2.5rem}
+#p2 { font-size:3.5rem}
+#p3 { font-size:4rem}
+
+div{
+    font-size:1.25em;
+        padding: 18px;
+   border:}

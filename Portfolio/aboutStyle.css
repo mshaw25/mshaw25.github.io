@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(to bottom, #FF0000 0%, #412BC5 100%);
+}
+body {
+    color: black;
+}
+
+h1 {
+    color: purple;
+}
+p{
+    font-size:1.25em;
+        padding: 18px;
+    float: left;
+width: 25%}
+#pic{float:right; margin: 0%;}
