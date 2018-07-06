@@ -1,5 +1,5 @@
-body {
-    background: linear-gradient(to bottom, #FF0000 0%, #412BC5 100%);
+body,html {
+    background-color:#4390bc ;
 }
 body {
     color: black;
@@ -8,3 +8,4 @@ body {
 h1 {
     color: purple;
 }
+a:hover{color: lightskyblue}
