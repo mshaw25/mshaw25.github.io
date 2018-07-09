@@ -2,3 +2,7 @@ body,html {
     background-color:#4390bc ;
 }
 a:hover{color: lightskyblue}
+div{
+    font-size:2em;
+        padding: 18px;
+   }

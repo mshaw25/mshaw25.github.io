@@ -1,4 +1,7 @@
 body,html {
     background-color:#4390bc ;
+    align-content: center;
 }
 a:hover{color: lightskyblue}
+div{text-align: center;
+    font-size: 2em}
